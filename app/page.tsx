@@ -23,7 +23,7 @@ import {
 type TabType = 'rekap' | 'log' | 'akun'
 
 // Express Backend Base URL
-const BACKEND_URL = 'http://localhost:5001/api/socialforce'
+const BACKEND_URL = 'http://103.127.96.147:5001/api/socialforce'
 
 interface PeriodSummary {
   activities: {
